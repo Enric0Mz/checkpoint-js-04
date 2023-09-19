@@ -25,7 +25,7 @@ const Navigation = styled.nav`
 
 const NavList = styled.ul`
     padding: 0.25em 1em;
-    color: #4312AE; /* dark blue */
+    color: #4312AE; 
 `;
 
 const NavItem = styled.li`
